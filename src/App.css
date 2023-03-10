@@ -1,0 +1,20 @@
+.App {
+    height: 100vh;
+    text-indent: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* padding-left: 15px; */
+}
+
+.main-cover {
+    margin-left: 1rem;
+}
+
+.dear {
+    margin-top: 1rem;
+}
+
+.paragraphs {
+    margin: 1rem;
+}
